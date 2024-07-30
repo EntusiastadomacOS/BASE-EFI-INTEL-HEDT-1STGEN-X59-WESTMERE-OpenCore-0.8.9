@@ -184,8 +184,10 @@ https://dortania.github.io/OpenCore-Install-Guide/config-HEDT/nehalem.html
 https://dortania.github.io/Getting-Started-With-ACPI/
 
 
-## Site - Luan Analista de TI /Developer
+## Site - [Luan](https://luananalistadeti.netlify.app/) Analista de TI /Developer
+
 - https://luananalistadeti.netlify.app/
 
 ## GitHub - Entusiasta do macOS
+
 - https://github.com/EntusiastadomacOS
